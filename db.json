@@ -1,0 +1,22 @@
+{
+  events: [
+    {
+      id: 10,
+      time: '11 P.M.',
+      title: 'La Fiesta',
+      location: 'FrontierLand'
+    },
+    {
+      id: 20,
+      time: '12 P.M.',
+      title: 'DiscoParty',
+      location: 'DiscoveryLand'
+    },
+    {
+      id: 30,
+      time: '9:30 P.M.',
+      title: 'Private Event',
+      location: 'Disney Studios'
+    }
+  ]
+}
